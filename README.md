@@ -1,0 +1,2 @@
+# getsmart
+Barebones PHP framework
